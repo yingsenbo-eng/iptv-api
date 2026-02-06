@@ -3,6 +3,7 @@
 
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
